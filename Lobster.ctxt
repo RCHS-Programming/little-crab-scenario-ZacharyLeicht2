@@ -1,13 +1,13 @@
 #BlueJ class context
-comment0.target=Crab
-comment0.text=\r\n\ This\ class\ defines\ a\ crab.\ Crabs\ live\ on\ the\ beach.\r\n
+comment0.target=Lobster
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Lobster\ here.\r\n\ \r\n\ @author\ Zachary\ \r\n\ @version\ March\ 16\ version\ 1\r\n
 comment1.params=
 comment1.target=void\ act()
 comment2.params=
 comment2.target=void\ move()
 comment3.params=
-comment3.target=void\ lookForWorm()
-comment3.text=\ \r\n\ If\ Crab\ is\ Hungry\ it\ eats\r\n\ It\ can\ eat\ the\ worm\ or\ not\ eat\ it\ at\ all\\\r\n\ Moves\ freely\ \r\n
+comment3.target=void\ lookForCrab()
+comment3.text=\ \r\n\ If\ Lobster\ is\ Hungry\ it\ eats\r\n\ It\ can\ eat\ the\ worm\ or\ not\ eat\ it\ at\ all\\\r\n\ Moves\ freely\ \r\n
 comment4.params=
 comment4.target=void\ randomTurn()
 comment4.text=\r\n\ Make\ the\ Crab\ randomly\ turn\ left\ or\ right\r\n\ between\ 0\ and\ 45\ degrees\ \r\n
