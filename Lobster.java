@@ -33,6 +33,7 @@ public class Lobster extends Actor
         if( isTouching(Crab.class) )
         {
             removeTouching( Crab.class );
+            Greenfoot.stop();
         }
     }
     
@@ -58,5 +59,6 @@ public class Lobster extends Actor
              turn (17);
         }
     }
+    
     
 }
