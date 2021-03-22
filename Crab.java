@@ -5,6 +5,20 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, and Greenfoot)
  */
 public class Crab extends Actor
 {
+    private GreenfootImage image1;
+    private GreenfootImage image2; 
+    
+    
+    /* 
+     * Creare a  Crab and initialize two image variables 
+     */
+    public Crab()
+    {
+        image1 = new GreenfootImage( "crab.png" );
+        image2 = new GreenfootImage( "crab2.png" ); 
+        setImage( image1 ); 
+    }
+    
     public void act()
     {
 
