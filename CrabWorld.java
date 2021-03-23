@@ -24,6 +24,5 @@ public class CrabWorld extends World
         addObject( new Worm(), Greenfoot.getRandomNumber (560), Greenfoot.getRandomNumber (560) ); 
         addObject( new Worm(), Greenfoot.getRandomNumber (560), Greenfoot.getRandomNumber (560) ); 
         addObject( new Worm(), Greenfoot.getRandomNumber (560), Greenfoot.getRandomNumber (560) ); 
-        addObject( new Worm(), Greenfoot.getRandomNumber (560), Greenfoot.getRandomNumber (560) );
     }
 } 
